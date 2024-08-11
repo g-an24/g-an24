@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anany.</h1>
-<h3 align="center">I'm a Computer Science Engineering student 🚀 from India, currently working on various projects and trying to figure out stuff.</h3>
+<h3 align="center">I'm a Computer Science and Engineering student 🚀 from India, currently working on various projects and trying to figure out stuff.</h3>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" />
 
 ### Talking about Personal Stuff:
 
-- 🔭 I’m currently learning Data Science and DSA on [Scaler Edge](https://www.scaler.com/academy/profile/a08c842f80b1/)
-- 🌱 I’m currently working with Python, R, C++.
-- 🤔 My interests lie in Data Science, Machine Learning, and Artificial Intelligence.
+- 🔭 I’ve done something related to Data Science and DSA on [Scaler Edge](https://www.scaler.com/academy/profile/a08c842f80b1/)
+- 🌱 I’m currently learning and trying to implement tech stacks which includes AWS, Python, R, C++, Java, JavaScript.
+- 🤔 My interests lie in Cloud Computing, Backend Development, Data Science, Machine Learning, and Artificial Intelligence.
 - 💼 I’m pursuing a Master's degree in Computer Engineering from New York University.
 - 💬 I'd love to collaborate on interesting projects and ideas!
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-kumar-gangver/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/gangver_anany/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/7987537992)
+
 
 ### Languages and Tools:
 
