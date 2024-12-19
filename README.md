@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Kumar Gangver</h1>
-<h3 align="center">🚀 Master's in Computer Science at NYU | Backend Development | Cloud Computing | Data Science | FinTech Enthusiast</h3>
+<h3 align="center">🚀 Master's in Computer Engineering at NYU | Backend Development | Cloud Computing | Data Science | FinTech Enthusiast</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43291247/227759827-4a3e6db3-62c8-49eb-9274-6f5fc5f5e057.gif" width="600" />
