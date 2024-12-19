@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Ananya Kumar Gangver</h1>
+<h1 align="center">Hi 👋, I'm Ananya Kumar Gangver</h1>
 <h3 align="center">🚀 Master's in Computer Science at NYU | Backend Development | Cloud Computing | Data Science | FinTech Enthusiast</h3>
 
 <p align="center">
