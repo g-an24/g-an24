@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center">✨ Keep learning, keep building! ✨</p>
+<p align="center"> Keep learning, keep building! </p>
