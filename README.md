@@ -12,8 +12,7 @@
 - 🔭 **Current Work**: Master's student at NYU, building innovative solutions in **Big Data**, **Cloud Computing**, and **Machine Learning**.
 - 💼 **Goals**: Transition into FinTech with a focus on **risk management solutions**, **data pipelines**, and **portfolio optimization**.
 - 🤝 **Collaborations**: Open to collaborating on backend systems, AI projects, and FinTech applications.
-- 🌱 **Learning**: Continuously exploring **NLP**, **LLMs**, and **cloud-native architectures**.
-- ⚡ **Fun Fact**: Passionate about combining **technology** and **creativity** to build impactful projects.
+- ⚡ **Learning**: Continuously exploring **NLP**, **LLMs**, and **cloud-native architectures**.
 
 ---
 
