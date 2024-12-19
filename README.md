@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Kumar Gangver</h1>
+\<h1 align="center">Hi 👋, I'm Ananya Kumar Gangver</h1>
 <h3 align="center">🚀 Master's in Computer Science at NYU | Backend Development | Cloud Computing | Data Science | FinTech Enthusiast</h3>
 
 <p align="center">
@@ -21,11 +21,12 @@
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **Stock Price Analysis** | Real-time analysis and visualization of stock data with Kafka and Spark | Kafka, Spark, InfluxDB, Grafana |
-| **Predicting Business Success NYC** | Analyzed NYC business data for turnover and sales predictions | Python, Pandas, NumPy, Scikit-learn |
-| **Self-Driving Car Simulation** | Developed a self-driving car simulator with robust adaptive algorithms | Python, Reinforcement Learning |
-| **Startup Success Prediction** | Machine Learning models predicting startup success using Crunchbase datasets | Python, TensorFlow, Scikit-learn |
-| **Real-Time Embedded Systems** | Created a 3-bit binary counter using microcontrollers | C++, Embedded Systems |
+| **TaskDock** | A project demonstrating containerization with Docker, orchestration with Kubernetes, and monitoring with Prometheus. | Docker, Kubernetes, Prometheus |
+| **Rekognize_It** | An AI-powered photo album application with natural language search capabilities, leveraging AWS Lex, Rekognition, and Elasticsearch for seamless photo retrieval. | Python, AWS, Elasticsearch |
+| **CodeSync** | A live coding platform for real-time collaboration. Built with React and hosted on AWS, featuring WebSockets for live updates and Docker containers for secure execution. | JavaScript, React, AWS, WebSockets |
+| **StartupSage** | Machine learning models predicting startup success using Crunchbase datasets. Implements feature engineering and hyperparameter tuning. | Python, Jupyter Notebook, TensorFlow |
+| **SmartCode** | A "fit-in-the-middle" code completion tool using Llama 3.1 for intelligent auto-suggestions in programming workflows. | Jupyter Notebook, Llama 3.1 |
+| **StockStream** | Real-time stock price analysis and visualizations for meaningful financial insights. | Python, InfluxDB, Grafana |
 
 ---
 
@@ -44,18 +45,11 @@
 
 ---
 
-### 🏆 Achievements:
-
-- 💯 **GRE**: Scored **323/340**, including **170/170** in Math.
-- 🌐 **Open-Source**: Contributed to projects enhancing **real-time embedded systems**.
-- 🏅 **Academics**: Excelled in courses like **Deep Learning**, **Big Data**, and **Applied Matrix Theory**.
-
----
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-an24&show_icons=true&theme=radical" alt="Ananya's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=g-an24&show_icons=true&theme=radical" alt="Ananya's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-an24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -66,7 +60,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ananya-kumar-gangver/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/gangver_anany/"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="mailto:gangver.ananya@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:gangver.ananya2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
